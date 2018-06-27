@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\layout",
+    "\\src\\app\\layout\\dashboard",
+    "\\src\\app\\layout\\dashboard\\components",
+    "\\src\\app\\layout\\grid",
+    "\\src\\app\\layout\\kpi",
+    "\\src\\app\\layout\\kpi\\attrition",
+    "\\src\\app\\layout\\tables"
+  ],
+  "SelectedNode": "\\src\\app\\layout\\tables\\tables.service.ts",
+  "PreviewInSolutionExplorer": false
+}
